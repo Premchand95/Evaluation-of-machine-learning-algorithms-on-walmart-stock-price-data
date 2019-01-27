@@ -10,22 +10,24 @@ CSCI 54900 INTELLIGENT SYSTEMS PROJECT
 * Item Among all the algorithms used ARIMA shows least error rate.
 
 ### Dataset
-```
-sample walmart dataset 
-```
-![Walmart sample data](https://github.com/Premchand95/Evaluation-of-machine-learning-algorithms-on-walmart-stock-price-data/blob/master/reports%20%26%20results/img/Picture1.png)
+
+**sample walmart dataset**
+
+<img src="https://github.com/Premchand95/Evaluation-of-machine-learning-algorithms-on-walmart-stock-price-data/blob/master/reports%20%26%20results/img/Picture1.png" height="250" width="250">
+
 
 ### Feature Selection
-```
-we got "High", "Low" , "Open" as top features using Recursive Feature Elimination (RFE)
-```
-![RFE](https://github.com/Premchand95/Evaluation-of-machine-learning-algorithms-on-walmart-stock-price-data/blob/master/reports%20%26%20results/img/Picture2.png)
+**we got "High", "Low" , "Open" as top features using Recursive Feature Elimination (RFE)**
+
 
 ### Recurrent Neural Networks
-![RFE](https://github.com/Premchand95/Evaluation-of-machine-learning-algorithms-on-walmart-stock-price-data/blob/master/reports%20%26%20results/img/Picture3.png)
+
 ### ARIMA
-![RFE](https://github.com/Premchand95/Evaluation-of-machine-learning-algorithms-on-walmart-stock-price-data/blob/master/reports%20%26%20results/img/Picture5.png)
+
 ### SVM
-![RFE](https://github.com/Premchand95/Evaluation-of-machine-learning-algorithms-on-walmart-stock-price-data/blob/master/reports%20%26%20results/img/Picture6.png)
+
 ### Results
-![RFE](https://github.com/Premchand95/Evaluation-of-machine-learning-algorithms-on-walmart-stock-price-data/blob/master/reports%20%26%20results/img/Picture7.png)
+* **Forecast of walmart data for next 5 days using ARIMA**
+<img src="https://github.com/Premchand95/Evaluation-of-machine-learning-algorithms-on-walmart-stock-price-data/blob/master/reports%20%26%20results/img/Picture10.png" height="250" width="250">
+
+
